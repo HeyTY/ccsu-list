@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "946373540413",
+    "firebase_url": "https://ccsu-list.firebaseio.com",
+    "project_id": "ccsu-list",
+    "storage_bucket": "ccsu-list.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946373540413:android:b3cf7a480e6b081b894854",
+        "android_client_info": {
+          "package_name": "com.example.ccsulist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946373540413-25srb1uqssgar2ki9mt4md70r0bvffbi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ccsulist",
+            "certificate_hash": "a2e033563adced934757136769fedf53d1347051"
+          }
+        },
+        {
+          "client_id": "946373540413-i18lt0bedlc47uvsifau3b2733o7tkgj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9YSAQi9wSCu1_zKywfEx_v1KoOGBdkKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946373540413-i18lt0bedlc47uvsifau3b2733o7tkgj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
